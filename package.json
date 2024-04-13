@@ -35,6 +35,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://aadityakushwaha.github.io/", 
   "browserslist": {
     "production": [
       ">0.2%",
